@@ -24,7 +24,7 @@ AWS環境にMFAが設定される
 育成及びDevOpsの概要を理解する
 Cloud9で開発環境構築をおこなう
 
-!image(https://github.com/pantyou/AWS-Service/blob/main/image/systemimage1.png)
+![image](https://github.com/pantyou/AWS-Service/blob/main/image/systemimage1.png)
 
 1 DevOps
 2 セキュリティ（IAM）
